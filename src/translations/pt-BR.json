@@ -1,0 +1,19 @@
+{
+  "APP_NAME": "email client",
+  "About": "Sobre",
+  "Hello world !": "Olá Mundo !",
+  "Home": "Início",
+  "Cancel": "Cancelar",
+  "Change language": "Alterar idioma",
+  "Language": "Idioma",
+  "Ok": "Ok",
+  "Login": "Entrar",
+  "Logout": "Sair",
+  "Password": "Senha",
+  "Password is required": "A senha é obrigatória",
+  "Username": "Usuário",
+  "Username is required": "O usuário é obrigatório",
+  "Username or password incorrect.": "Usuário ou senha incorretos.",
+  "Remember me": "Lembre-se de mim",
+  "Version": "Versão"
+}

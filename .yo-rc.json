@@ -1,0 +1,29 @@
+{
+  "generator-ngx-rocket": {
+    "version": "9.2.0",
+    "props": {
+      "location": "path",
+      "strict": false,
+      "skipInstall": false,
+      "skipQuickstart": false,
+      "initGit": true,
+      "usePrefix": true,
+      "appName": "email client",
+      "target": ["web", "cordova", "electron"],
+      "pwa": true,
+      "mobile": ["ios", "android"],
+      "desktop": ["windows", "mac", "linux"],
+      "ui": "ionic",
+      "layout": "side-menu",
+      "auth": true,
+      "lazy": true,
+      "angulartics": false,
+      "languages": ["de-DE", "en-US", "es-ES", "fr-FR", "it-IT", "pt-BR", "zh-CN"],
+      "tools": ["prettier", "hads"],
+      "utility": [],
+      "deploy": "none",
+      "projectName": "email-client",
+      "packageManager": "npm"
+    }
+  }
+}
